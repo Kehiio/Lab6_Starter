@@ -11,7 +11,7 @@
     "organization": "https://tastesbetterfromscratch.com/",
     "rating": 5,
     "numRatings": 5714,
-    "lengthTime": "1 hr 35 min",
+    "lengthTime": "1 hr 35",
     "ingredients": "Pie crust, cinnamon, 2 eggs"
   },
   {
@@ -22,7 +22,7 @@
     "organization": "www.inspiredtaste.net",
     "rating": 4,
     "numRatings": 1541,
-    "lengthTime": "30 min",
+    "lengthTime": "30",
     "ingredients": "Blueberries, flour, sugar, oil, egg, milk"
   },
   {
@@ -33,7 +33,7 @@
     "organization": "www.allrecipes.com",
     "rating": 5,
     "numRatings": 7330,
-    "lengthTime": "1h 20 min",
+    "lengthTime": "1h 20",
     "ingredients": "Carrots, flour, cream cheese"
   }
 ]
