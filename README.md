@@ -1,4 +1,5 @@
 # Lab 6 - Starter
+Kelly Dempster
 [Click Link to Recipe Page](https://kehiio.github.io/Lab6_Starter/)
 
 #### Some sample recipies with images I added in JSON format
