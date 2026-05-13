@@ -15,7 +15,7 @@
     "ingredients": "Pie crust, cinnamon, 2 eggs"
   },
   {
-    "imgSrc": "https://www.inspiredtaste.net/18982/our-favorite-easy-blueberry-muffin-recipe/",
+    "imgSrc": "./assets/images/5_blueberry-muffin.jpg",
     "imgAlt": "Blueberry Muffins",
     "titleLnk": "https://www.inspiredtaste.net/18982/our-favorite-easy-blueberry-muffin-recipe/",
     "titleTxt": "Easy Blueberry Muffins",
